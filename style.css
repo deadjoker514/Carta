@@ -56,7 +56,7 @@ span.jump {
   width: 10em;
   text-align: center;
   left: calc(50vw - 5em);
-  top: calc(47vh - 12.5em);
+  top: calc(44vh - 12.5em);
   animation: jump 1s ease-in-out infinite alternate;
 }
 
